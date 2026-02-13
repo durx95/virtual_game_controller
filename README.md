@@ -53,3 +53,4 @@ Calculates midpoint between shoulders.
 Compares midpoint with screen center.
 If midpoint crosses defined threshold → Triggers corresponding arrow key.
 Updates direction only when it changes to avoid repeated key spam.
+----
